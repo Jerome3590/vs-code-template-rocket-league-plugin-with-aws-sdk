@@ -1,0 +1,83 @@
+[10:45:32] [bakkesmod] [class PluginManager] {"success":true,"response":{"plugins":{"285":{"version":1,"download_url":"https:\/\/bakkesplugins.com\/plugins\/download\/285","verified":true}}}}
+[10:45:35] [bakkesmod] > togglemenu console2;
+[10:45:35] [bakkesmod] Opened window console2
+[10:45:36] [bakkesmod] Fetching favorites
+[10:45:42] [bakkesmod] > plugin load dashboard
+[10:45:42] [bakkesmod] Trying LoadLibraryW
+[10:45:42] [bakkesmod] On file: C:\Users\jerom\AppData\Roaming\bakkesmod\bakkesmod\plugins/dashboard.dll. 
+[10:45:42] [bakkesmod] Called LoadLibraryW 
+[10:45:42] [bakkesmod] Plugin Info: 
+[10:45:42] [bakkesmod] API Version: 95
+[10:45:42] [bakkesmod] File Name: D:\Rocket_League_Plugin_with_AWS_SDK\Dashboard.cpp
+[10:45:42] [bakkesmod] Class Name: Dashboard
+[10:45:42] [bakkesmod] Plugin Name: Rocket League Game Dashboard
+[10:45:42] [bakkesmod] Game events: 1
+[10:45:42] [bakkesmod] Plugin Version: 1.0
+[10:45:42] [bakkesmod] [class Dashboard] Dashboard plugin started..
+[10:45:42] [bakkesmod] Plugin dashboard loaded successfully.
+[10:46:03] [bakkesmod] > closemenu queuemenu
+[10:46:03] [bakkesmod] Window queuemenu is already closed.
+[10:46:03] [bakkesmod] > closemenu queuemenu
+[10:46:03] [bakkesmod] Window queuemenu is already closed.
+[10:46:05] [RankShowMod] New game event set
+[10:46:05] [bakkesmod] [class Dashboard] Your DynamoDB tables:
+[10:46:05] [bakkesmod] [class Dashboard] rocket_league_continuous_events
+[10:46:05] [bakkesmod] [class Dashboard] rocket_league_discrete_events
+[10:46:05] [RankShowMod] New game event set
+[10:46:05] [RankShowMod] Player can now leave
+[10:46:05] [RankShowMod] New game event set
+[10:46:05] [RankShowMod] New game event set
+[10:46:05] [RankShowMod] Match ended -406374144
+[10:46:05] [RankShowMod] Match ended2 -1
+[10:46:05] [RankShowMod] New game event set
+[10:46:05] [RankShowMod] Player can now leave
+[10:46:05] [bakkesmod] Adding Message from the Wizard:Additional replay data provided by BakkesMod. You can support our work at: https://www.patreon.com/bakkesmod to the replay log
+[10:46:05] [bakkesmod] Adding GameStartTime:2023-09-01T10:46:05-0400 to the replay log
+[10:46:07] [bakkesmod] [class Dashboard] Your DynamoDB tables:
+[10:46:07] [bakkesmod] [class Dashboard] rocket_league_continuous_events
+[10:46:07] [bakkesmod] [class Dashboard] rocket_league_discrete_events
+[10:46:07] [RankShowMod] New game event set
+[10:46:07] [RankShowMod] New game event set
+[10:46:07] [RankShowMod] New game event set
+[10:46:07] [RankShowMod] Match ended -1019049984
+[10:46:07] [RankShowMod] Match ended2 -1
+[10:46:07] [RankShowMod] New game event set
+[10:46:07] [RankShowMod] Player can now leave
+[10:46:07] [bakkesmod] [class Dashboard] Your DynamoDB tables:
+[10:46:07] [bakkesmod] [class Dashboard] rocket_league_continuous_events
+[10:46:07] [bakkesmod] [class Dashboard] rocket_league_discrete_events
+[10:46:11] [bakkesmod] [class AutoReplayUploaderPlugin] StartRound: Stored userdata for:
+[10:47:47] [bakkesmod] [class Dashboard] Your DynamoDB tables:
+[10:47:47] [bakkesmod] [class Dashboard] rocket_league_continuous_events
+[10:47:47] [bakkesmod] [class Dashboard] rocket_league_discrete_events
+[10:48:04] [bakkesmod] [class Dashboard] Your DynamoDB tables:
+[10:48:04] [bakkesmod] [class Dashboard] rocket_league_continuous_events
+[10:48:04] [bakkesmod] [class Dashboard] rocket_league_discrete_events
+[10:48:08] [bakkesmod] [class AutoReplayUploaderPlugin] StartRound: Stored userdata for:
+[10:48:47] [bakkesmod] [class Dashboard] Your DynamoDB tables:
+[10:48:47] [bakkesmod] [class Dashboard] rocket_league_continuous_events
+[10:48:47] [bakkesmod] [class Dashboard] rocket_league_discrete_events
+[10:49:01] [bakkesmod] [class Dashboard] Your DynamoDB tables:
+[10:49:01] [bakkesmod] [class Dashboard] rocket_league_continuous_events
+[10:49:01] [bakkesmod] [class Dashboard] rocket_league_discrete_events
+[10:49:04] [bakkesmod] Closing window console2
+[10:49:05] [bakkesmod] [class AutoReplayUploaderPlugin] StartRound: Stored userdata for:
+[10:49:08] [RankShowMod] Skill request completed
+[10:49:08] [RankShowMod] BakkesMod::Mod::RankShowMod::SkillRequestCompleted:288->hud2->GameEvent is NULL!
+[10:49:08] [bakkesmod] > closemenu queuemenu
+[10:49:08] [bakkesmod] Window queuemenu is already closed.
+[10:49:08] [RankShowMod] New game event set
+[10:49:08] [RankShowMod] New game event set
+[10:49:08] [RankShowMod] New game event set
+[10:49:08] [RankShowMod] Match ended 64338176
+[10:49:08] [RankShowMod] Match ended2 -1
+[10:49:08] [RankShowMod] New game event set
+[10:49:08] [RankShowMod] Player can now leave
+[10:49:08] [RankShowMod] New game event set
+[10:49:08] [RankShowMod] New game event set
+[10:49:09] [bakkesmod] [class Dashboard] Your DynamoDB tables:
+[10:49:09] [bakkesmod] [class Dashboard] rocket_league_continuous_events
+[10:49:09] [bakkesmod] [class Dashboard] rocket_league_discrete_events
+[10:49:09] [bakkesmod] [class Dashboard] Your DynamoDB tables:
+[10:49:09] [bakkesmod] [class Dashboard] rocket_league_continuous_events
+[10:49:09] [bakkesmod] [class Dashboard] rocket_league_discrete_events
